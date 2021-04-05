@@ -1,0 +1,5 @@
+Settings for repository: (options: memory, binary file, text file)
+books = Book Text File.txt
+client_repository = Client Text File.txt
+rental_repository = Rental Text File.txt
+repository = text file
